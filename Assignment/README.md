@@ -1,6 +1,6 @@
 #Nybula Assignment
 
-Hi,This is tharun kumar P from New Horizon College ,Bangalore 
+My name is Ayush Diggiwal. I am MCA student from Ramaiah Institute of Technology, Bangalore
 
 The assignment which i choose was Scheduling meeting for teeraforms using an application which is Assignment-1.
 
